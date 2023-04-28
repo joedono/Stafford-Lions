@@ -2,7 +2,7 @@ name: "Stafford Lions Club"
 description: "We Serve"
 url: "http://staffordlionsclub.org/"
 permalink: "/post/:year/:year-:month-:day-:title:output_ext"
-exclude: [package.json, package-lock.json, archive, app.js, node_modules]
+exclude: [archive]
 defaults:
     -
         scope:
