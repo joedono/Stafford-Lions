@@ -3,6 +3,8 @@ description: "We Serve"
 url: "http://staffordlionsclub.org/"
 permalink: "/post/:year/:year-:month-:day-:title:output_ext"
 exclude: [archive]
+plugins:
+    - jekyll-feed
 defaults:
     -
         scope:
