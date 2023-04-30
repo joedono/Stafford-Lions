@@ -3,10 +3,10 @@ title: 13th Annual Moonlight Paddle
 ---
 <img src="/img/2023/2023-moonlight-paddle.jpg" class="img-fluid" alt="13th Annual Moonlight Paddle"/>
 
-## Location
+### Location
 Staffordville Beach, 11 Schwanda Rd, Stafford, CT 06076
 
-## Details
+### Details
 * **Event is Friday, August 18, 2023**
 * Gates open at 6 PM; launch at 7:30; boats off the water at 9 PM.
 * Free paddling (bring your own kayak or canoe). Boats must be cleaned before entering the lake.
