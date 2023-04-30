@@ -4,7 +4,7 @@ html {
 }
 
 body {
-	margin-bottom: 90px;
+	margin-bottom: 40px;
 	background-color: #99D9EA;
 }
 
@@ -34,7 +34,7 @@ header, .post-container {
 
 footer {
 	bottom: 0;
-	height: 90px;
+	height: 40px;
 	position: absolute;
 	text-align: center;
 	padding-top: 10px;
