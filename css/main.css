@@ -17,6 +17,14 @@ header, .post-container {
 	box-shadow: 0 0 20px rgba(0,0,0,0.2);
 }
 
+.banner-section {
+	font-size: .75em;
+}
+
+.banner-section img {
+	max-height: 100px;
+}
+
 .post-title a {
 	color: #195768;
 	text-decoration: none;
