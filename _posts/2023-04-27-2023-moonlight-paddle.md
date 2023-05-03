@@ -1,5 +1,8 @@
 ---
 title: 13th Annual Moonlight Paddle
+og: true
+description: It's going to be a beautiful night!!
+image: /img/2023/2023-moonlight-paddle.jpg
 ---
 <img src="/img/2023/2023-moonlight-paddle.jpg" class="img-fluid" alt="13th Annual Moonlight Paddle"/>
 

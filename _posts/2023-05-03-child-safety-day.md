@@ -1,5 +1,8 @@
 ---
 title: Child Safety Day
+og: true
+description: Bring your kids to Child Safety Day
+image: /img/2023/child-safety-day.png
 ---
 <img src="/img/2023/child-safety-day.png" class="img-fluid float-end" alt="Child Safety Day"/>
 
