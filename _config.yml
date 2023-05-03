@@ -4,16 +4,16 @@ url: "http://staffordlionsclub.org/"
 permalink: "/post/:year-:month-:day-:title:output_ext"
 exclude: [archive]
 plugins:
-    - jekyll-feed
+  - jekyll-feed
 defaults:
-    -
-        scope:
-            path: ""
-        values:
-            layout: "default"
-    -
-        scope:
-            path: ""
-            type: "posts"
-        values:
-            layout: "post"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
