@@ -1,7 +1,7 @@
 ---
 title: Child Safety Day
 ---
-<!-- <img src="/img/2023/child-safety-day.png" class="img-fluid float-start" alt="Child Safety Day"/> -->
+<img src="/img/2023/child-safety-day.png" class="img-fluid float-end" alt="Child Safety Day"/>
 
 The Stafford Lions Club will be at Child Safety Day organized by the Stafford Public Schools. Many emergency services and local services will be there showcasing their vehicles and answering questions by the students. Everything from the police, the firefighters, the EMTs, animal control, and even the military.
 
