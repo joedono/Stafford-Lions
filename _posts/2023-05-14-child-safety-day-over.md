@@ -6,6 +6,4 @@ image: /img/2023/child-safety-day-over.jpg
 ---
 Thanks to everyone who came to see us at our booth at Child Safety Day!!
 
-test
-
 <img src="/img/2023/child-safety-day-over.jpg" class="img-fluid" alt="Child Safety Day"/>
