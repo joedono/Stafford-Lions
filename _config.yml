@@ -1,0 +1,19 @@
+name: "Stafford Lions Club"
+description: "We Serve"
+url: "http://staffordlionsclub.org/"
+permalink: "/post/:year-:month-:day-:title:output_ext"
+exclude: [archive]
+plugins:
+  - jekyll-feed
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

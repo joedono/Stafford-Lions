@@ -1,0 +1,50 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 40px;
+  background-color: #99D9EA;
+}
+
+header, .post-container {
+  background-color: white;
+  padding: 10px;
+  margin-top: 10px;
+  border: 1px solid #2c7d8a;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+  display: flow-root;
+}
+
+.banner-section {
+  font-size: .75em;
+}
+
+.banner-section img {
+  max-height: 100px;
+}
+
+.post-title a {
+  color: #195768;
+  text-decoration: none;
+}
+
+.post-title a:hover {
+  color: #0c2b33;
+  text-decoration: underline;
+}
+
+.post-author {
+  font-size: 0.75em;
+  font-style: italic;
+}
+
+footer {
+  bottom: 0;
+  height: 40px;
+  position: absolute;
+  text-align: center;
+  padding-top: 10px;
+}
