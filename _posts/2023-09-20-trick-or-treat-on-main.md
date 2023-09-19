@@ -4,7 +4,7 @@ og: true
 description: Come in your spookiest costumes and enjoy a drink of apple cider on us!
 image: /img/2023/stafford-trick-or-treat.png
 ---
-<ing class="img-fluid" src="/img/2023/stafford-trick-or-treat.png" alt="Stafford Trick or Treat on Main" />
+<img class="img-fluid" src="/img/2023/stafford-trick-or-treat.png" alt="Stafford Trick or Treat on Main" />
 
 The Stafford Lions Club will have a booth at this year's Stafford Trick or Treat on Main. Come feed your sweet tooth in your spookiest costume and enjoy a nice cup of apple cider on us!
 
