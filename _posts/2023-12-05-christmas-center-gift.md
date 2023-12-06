@@ -1,7 +1,7 @@
 ---
 title: Christmas Center Gift Extravaganza
 ---
-On Tuesday, November 21, 2023 The Stafford Lions Club voted to give $500 to enable Christmas toys for 83 children through the Christmas Center Gift Extravaganza provided by Stafford Social Services and the Stafford Community Center.
+On Tuesday, November 21, 2023 The Stafford Lions Club voted to give $500 to enable Christmas toys for 83 families with over 200 children through the Christmas Center Gift Extravaganza provided by Stafford Social Services and the Stafford Community Center.
 
 And today we presented the check.
 
