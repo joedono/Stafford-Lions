@@ -15,3 +15,5 @@ The tournament will be a single elimination. Blind draw for initial match follow
 Bring a partner or enter by yourself, and we will team you up!
 
 Contact Paul Wentworth at pdubs0015@gmail.com with any questions or to talk about pre-registration.
+
+<a href="/files/2024/Cornhole Flier American Legion 7- 2024.pdf" target="_blank">Click here to view our promotional flyer</a>
