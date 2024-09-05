@@ -11,7 +11,7 @@ As the Stafford Lions wrap up our regular meetings for the summer, we welcome th
         <img src="img/2024/final-meeting/IMG_3662.jpg" class="img-fluid" />
     </div>
 </div>
-<div class="row">
+<div class="row" style="margin-top: 10px">
     <div class="col-md-6">
         <img src="img/2024/final-meeting/IMG_3660.jpg" class="img-fluid" />
     </div>
