@@ -13,6 +13,6 @@ As an additional treat, the Stafford Lions Club is partnering with the Stafford 
 
 <a href="https://www.lionsclubs.org/peaceposter" target="_blank">More Info</a>
 
-<img src="/img/2024/peace-poster.png" class="img-fluid"/>
+<img src="/img/2024/peace-poster.png" class="img-fluid" />
 
-<img src="/img/2024/oasis.png" class="img-fluid"/>
+<img src="/img/2024/oasis.png" class="img-fluid" />
