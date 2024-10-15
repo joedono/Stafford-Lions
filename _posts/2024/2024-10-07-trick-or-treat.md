@@ -5,6 +5,6 @@ Come see us in downtown Stafford on October 26th for the annual Trick or Treat o
 
 But get there early! The streets close down at 2:00 for setup.
 
-The rain date is the next day, October 27th.
+The rain date is the next day, October 27th, at the same time.
 
 <a href="https://www.explorestaffordct.com/trickortreat" target="_blank">More Info</a>
