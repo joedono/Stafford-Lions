@@ -17,8 +17,9 @@ layout: null
   <body>
     <div class="reveal">
       <div class="slides">
-        <section><img src="/img/2024/ambassador-of-sight.png" /></section>
-        <section><img src="/img/2024/final-meeting/IMG_3662.jpg" /></section>
+        {% for presentation_image in site.data.presentation_images %}
+          <section><img src="{{ presentation_image }}" /></section>
+        {% endfor %}
       </div>
     </div>
 
