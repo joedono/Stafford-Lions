@@ -11,7 +11,7 @@ The winner of our district's contest will be entered into the Lions Club Interna
 
 As an additional treat, the Stafford Lions Club is partnering with the Stafford Library and their OASIS program. Join us on October 29, 2024 at 6:00pm at the Stafford Library for a night of creativity and crafting to work on your Peace Posters. Children of all ages are welcome to participate in the poster creation during the OASIS event, but only children ages 11, 12, and 13 can enter their posters into the Peace Poster Contest.
 
-<a href="https://www.lionsclubs.org/peaceposter" target="_blank">More Info</a>
+<a href="https://www.lionsclubs.org/peaceposter" target="_blank" class="btn btn-primary">More Info</a>
 
 <img src="/img/2024/peace-poster.png" class="img-fluid" />
 

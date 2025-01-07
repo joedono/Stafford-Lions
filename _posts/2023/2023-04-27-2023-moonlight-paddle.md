@@ -17,4 +17,4 @@ Staffordville Beach, 11 Schwanda Rd, Stafford, CT 06076
 * Raffle: grand prize is kayak, paddle and PFD; 2nd prize a floating cooler; 3rd prize a floating belongings pouch. Tickets are $5 each or 3 for $10.
 * More information contact Paul Wentworth @ pdubs0015@gmail.com
 
-<a href="https://www.e-clubhouse.org/userfiles/2275/file/0425231121272023MoonlightPaddle_.pdf" target="_blank">Promotional Flyer</a>
+<a href="https://www.e-clubhouse.org/userfiles/2275/file/0425231121272023MoonlightPaddle_.pdf" target="_blank"  class="btn btn-primary">Promotional Flyer</a>

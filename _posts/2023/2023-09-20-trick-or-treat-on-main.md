@@ -10,4 +10,4 @@ The Stafford Lions Club will have a booth at this year's Stafford Trick or Treat
 
 The event is Saturday, October 28, 2023 from 4:00pm - 6:00pm. Rain date is October 1, 2023.
 
-<a href="https://www.explorestaffordct.com/trickortreat" target="_blank">Click here for more info</a>
+<a href="https://www.explorestaffordct.com/trickortreat" target="_blank" class="btn btn-primary">Click here for more info</a>
