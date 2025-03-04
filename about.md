@@ -9,7 +9,7 @@ Lions Club International was founded in 1917, in Chicago. Its purpose was to pro
 
 Our slogan, **WE SERVE**, reflects the true meaning of Lionism. Lions have been reaching out to those in need, working with the blind and visually impaired, sponsoring education programs, and supporting diabetes research.
 
-Members of the Stafford Lions Club have made a special effort these past years to be a visible and positive force in the community. Your neighbor might be a Lion - you could be a Lion! Please consider the reward offered by giving back a small part of you to improve the quality of life in Stafford. Contact any Lion with questions about how and why the club functions. Thank you for the support you have shwon our projects which allow us to serve you.
+Members of the Stafford Lions Club have made a special effort these past years to be a visible and positive force in the community. Your neighbor might be a Lion - you could be a Lion! Please consider the reward offered by giving back a small part of you to improve the quality of life in Stafford. Contact any Lion with questions about how and why the club functions. Thank you for the support you have given our projects which allow us to serve you.
 
 ## How The Lions Club Started
 <img src="/img/jones_m.png" class="float-start me-2" alt="Melvin Jones">
